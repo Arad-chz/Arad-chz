@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Arad 👋
 
-<!--
-**Arad-chz/Arad-chz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer focused on Deep Learning, NLP & Robotics  
+Building real-world AI systems for healthcare and intelligent automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🧠 Learning Deep Learning, NLP and Reinforcement Learning
+- 💻 Building real-world AI systems
+- 🤖 Interested in Robotics & Computer Vision
+- 🏥 Passionate about AI in Healthcare
+- 🎯 Goal: Build impactful AI startups
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+Python • JavaScript • SQL • HTML • CSS
+
+### AI & ML
+PyTorch • TensorFlow • OpenCV • NLP • Deep Learning
+
+### Tools
+Git • GitHub • VS Code
+
+---
+
+## 📌 Current Projects
+
+- Emotion Painter AI
+- AI Video Editing System
+- AI Medical Assistant
+- Surgery Assistant Robot
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub stats here -->
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn
+- Kaggle
+- Email
