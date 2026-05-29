@@ -39,7 +39,9 @@ Git • GitHub • VS Code
 
 ## 📈 GitHub Stats
 
-<!-- GitHub stats here -->
+![Arad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arad-chz&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arad-chz&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
