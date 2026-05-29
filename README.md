@@ -1,3 +1,13 @@
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![NLP](https://img.shields.io/badge/NLP-AI-green)
+![Computer Vision](https://img.shields.io/badge/ComputerVision-OpenCV-orange)
+![Robotics](https://img.shields.io/badge/Robotics-AI-purple)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&width=700&lines=AI+Developer;Deep+Learning+Engineer;NLP+%26+Robotics+Enthusiast;Building+Real-World+AI+Systems)](https://git.io/typing-svg)
+
 # Hi, I'm Arad 👋
 
 AI Developer focused on Deep Learning, NLP & Robotics  
@@ -42,6 +52,12 @@ Git • GitHub • VS Code
 ![Arad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arad-chz&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Arad-chz&theme=tokyonight)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arad-chz&layout=compact&theme=tokyonight)
+
+[![Arad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arad-chz&theme=tokyo-night)](https://github.com/)
+
+
 
 ---
 
