@@ -1,3 +1,9 @@
+!header
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Developer;Deep+Learning+%26+Robotics+Engineer;Building+Real-World+AI+Systems"/>
+</p>
+
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue)
@@ -22,6 +28,21 @@ Building real-world AI systems for healthcare and intelligent automation.
 - 🤖 Interested in Robotics & Computer Vision
 - 🏥 Passionate about AI in Healthcare
 - 🎯 Goal: Build impactful AI startups
+
+---
+
+## 🏆 International AI Achievements
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/🥇_1st_Place-Innoverse_AI_Competition_USA-gold?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/🥉_3rd_Place-1I1W_AI_Competition_Turkey-orange?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/📜_Diploma-Bright_Expo_France-blue?style=for-the-badge"/>
+
+</p>
+
 
 ---
 
